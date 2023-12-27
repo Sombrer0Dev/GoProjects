@@ -1,0 +1,12 @@
+[submodule "goLinkedList"]
+	path = goLinkedList
+	url = git@github.com:Sombrer0Dev/goLinkedList.git
+[submodule "adventofcode-go-2023"]
+	path = adventofcode-go-2023
+	url = git@github.com:Sombrer0Dev/adventofcode-go-2023.git
+[submodule "advent-of-code-go"]
+	path = advent-of-code-go
+	url = git@github.com:Sombrer0Dev/advent-of-code-go.git
+[submodule "go-short"]
+	path = go-short
+	url = git@github.com:Sombrer0Dev/go-short.git
